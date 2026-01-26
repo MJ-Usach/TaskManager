@@ -1,6 +1,6 @@
 # Developer Task Manager
 
-A modern, dark-themed task management application built with Python and Tkinter. Organize your development work across multiple workflow stages with a clean, intuitive interface.
+A modern, dark-themed task management application built with Python and Tkinter. Organize your development work across multiple workflow stages with a clean and simple, intuitive interface.
 
 ## Features
 
@@ -10,9 +10,7 @@ A modern, dark-themed task management application built with Python and Tkinter.
 - **CSV Import/Export**: Easily import and export tasks for data portability
 - **Task Editing**: Inline editing and comprehensive task management
 - **Persistent Storage**: Tasks are automatically saved to JSON format
-- **Responsive Design**: Clean, modern UI with rounded task cards
 
-## Installation
 
 ### Requirements
 - Python 3.7 or higher
@@ -40,7 +38,6 @@ python task_manager.py
 
 ### Editing Tasks
 - **Single-click** a task to view and edit its details
-- **Double-click** a task for quick inline editing
 - Add detailed notes in the Details section
 
 ### Moving Tasks Between Columns
@@ -125,11 +122,17 @@ TaskManager/
 
 ## License
 
-This project is open source and available for personal and commercial use.
+This project is licensed under the GNU Affero General Public License v3.0 (AGPLv3).
+
+**License summary:**
+- You may use, modify, and share this code, including for commercial purposes.
+- If you modify and deploy this code (or a derivative) for users over a network (e.g., as a web service), you must also make your modified source code available to those users under the same license.
+- See the LICENSE file for full terms.
 
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues and enhancement requests.
+If you have a suggestion or feature you want to add let me know!. 
 
 ## Future Enhancements
 
@@ -138,4 +141,5 @@ Contributions are welcome! Feel free to submit issues and enhancement requests.
 - Dark/Light theme toggle
 - Search and filter functionality
 - Backup and restore features
-- Cloud sync support
+- Priority Flag
+- Custom Columns
