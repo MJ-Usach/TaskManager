@@ -1,6 +1,6 @@
 # Developer Task Manager
 
-A modern, dark-themed kanban like task management application built with Python and Tkinter. Organize your development work across multiple workflow stages with a clean and simple, intuitive interface.
+A modern, dark-themed Kanban like task management application built with Python and Tkinter. Organize your development work across multiple workflow stages with a clean and simple, intuitive interface.
 
 ## Features
 
@@ -20,7 +20,7 @@ A modern, dark-themed kanban like task management application built with Python 
 
 1. Clone or download the repository:
 ```bash
-git clone <repository-url>
+git clone http://www.github.com/MJ-Usach/TaskManager
 cd TaskManager
 ```
 
