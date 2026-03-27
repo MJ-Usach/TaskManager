@@ -1,6 +1,6 @@
 # Developer Task Manager
 
-A modern, dark-themed task management application built with Python and Tkinter. Organize your development work across multiple workflow stages with a clean and simple, intuitive interface.
+A modern, dark-themed kanban like task management application built with Python and Tkinter. Organize your development work across multiple workflow stages with a clean and simple, intuitive interface.
 
 ## Features
 
