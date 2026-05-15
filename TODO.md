@@ -10,4 +10,4 @@ AGPLv3
 - Search and filter functionality
 - Backup and restore features
 - Priority Flag
-- Custom Columnsxd
+- Custom Columns
